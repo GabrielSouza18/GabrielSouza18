@@ -28,8 +28,11 @@
   <a href="https://www.linkedin.com/in/gabrielsouza18/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href= "https://steamcommunity.com/profiles/76561199028379653/" target="_blank"> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
   <a href= "https://open.spotify.com/user/kwoh5hxtd973x2jwop67zxy70?si=Hw1FZam4Rx2GAE23FlcaNw&utm_source=whatsapp" target="_blank"> 
-    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
     
+    ![Snake animation](https://github.com/GabrielSouza18/GabrielSouza18/blob/output/github-contribution-grid-snake.svg)
+    
+  </div>
 
     
     
