@@ -1,7 +1,5 @@
 ### <h1><Ola, seja bem-vindo ao meu perfil👨‍💻/></h1> 
 
-##
-
 - 📘 Atualmente sou estudante de front-end e back-end, com foco no front.
 
 - 📩Caso queira entrar em contato comigo, envie um email para: svgabriel18@hotmail.com
