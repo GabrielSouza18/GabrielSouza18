@@ -1,4 +1,4 @@
-<img align="right" height="560em" src="https://raw.githubusercontent.com/gist/GabrielSouza18/cf79905e554eeb8343b51ed44107fe38/raw/fbb47b66c5bb429eabee2a80e95a5e81fadb6c9e/gitcard.svg"/>
+<img align="right" height="550em" src="https://raw.githubusercontent.com/gist/GabrielSouza18/cf79905e554eeb8343b51ed44107fe38/raw/fbb47b66c5bb429eabee2a80e95a5e81fadb6c9e/gitcard.svg"/>
 <h1 align="left">Hi 👋, I'm Gabriel Souza</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielsouza18&color=blue" alt="Profile views" /> </p>
 
@@ -27,7 +27,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrielsouza18&theme=modern-lilac)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br><br> [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrielsouza18&theme=modern-lilac)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br><br>
 
 ## Contact
