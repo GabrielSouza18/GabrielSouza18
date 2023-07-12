@@ -10,7 +10,7 @@
 
 - 👨‍💻 More at [teste.dev](https://teste.dev)
 
-<br>
+<br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
