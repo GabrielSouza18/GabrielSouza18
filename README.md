@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/GabrielSouza18/06d82e4382d9e22d5c26d9a96cea4caa/raw/b31a06bc9a8bde871a5adfdf884ef7adcd77b480/card2.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/GabrielSouza18/174b0fe846d518529f66a55f9a0e1a73/raw/5b7dae835291eec14699bd40f969fbf54843de4f/card3.svg"/>
 <h1 align="left">Hi 👋, I'm Gabriel Souza</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielsouza18&color=blue" alt="Profile views" /> </p>
 
