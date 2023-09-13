@@ -2,7 +2,7 @@
 <h1 align="left">Hi 👋, I'm Gabriel Souza</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielsouza18&color=blue" alt="Profile views" /> </p>
 
-- 🔥 Web Developer
+- 🔥 FullStack Developer
 
 - 💬 Ask me about **JavaScript, PHP, HTML, CSS, SQL**
 <!--
