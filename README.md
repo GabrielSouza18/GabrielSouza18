@@ -4,7 +4,7 @@
 
 - 🔥 FullStack Developer
 
-- 💬 Ask me about **JavaScript, PHP, HTML, CSS, SQL**
+- 💬 Ask me about **Java, JavaScript, PHP, HTML, CSS, SQL**
 <!--
 - ⚡ Fun fact **Teste**
 
